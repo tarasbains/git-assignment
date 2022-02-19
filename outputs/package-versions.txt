@@ -1,0 +1,39 @@
+R version 4.1.2 (2021-11-01)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows >= 8 x64 (build 9200)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252 
+[2] LC_CTYPE=English_United Kingdom.1252   
+[3] LC_MONETARY=English_United Kingdom.1252
+[4] LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods  
+[7] base     
+
+other attached packages:
+[1] ggplot2_3.3.5   geodata_0.3-5   terra_1.5-17   
+[4] sf_1.0-6        rworldmap_1.3-6 dismo_1.3-5    
+[7] raster_3.5-15   sp_1.4-6       
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_1.0.8         pillar_1.7.0       compiler_4.1.2    
+ [4] class_7.3-19       viridis_0.6.2      tools_4.1.2       
+ [7] digest_0.6.29      dotCall64_1.0-1    nlme_3.1-153      
+[10] lifecycle_1.0.1    tibble_3.1.6       gtable_0.3.0      
+[13] lattice_0.20-45    viridisLite_0.4.0  mgcv_1.8-38       
+[16] pkgconfig_2.0.3    rlang_1.0.1        Matrix_1.3-4      
+[19] cli_3.1.1          DBI_1.1.2          spam_2.8-0        
+[22] gridExtra_2.3      e1071_1.7-9        withr_2.4.3       
+[25] vctrs_0.3.8        fields_13.3        maps_3.4.0        
+[28] classInt_0.4-3     grid_4.1.2         glue_1.6.1        
+[31] R6_2.5.1           fansi_1.0.2        foreign_0.8-81    
+[34] farver_2.1.0       magrittr_2.0.2     splines_4.1.2     
+[37] units_0.8-0        scales_1.1.1       codetools_0.2-18  
+[40] ellipsis_0.3.2     maptools_1.1-2     colorspace_2.0-2  
+[43] labeling_0.4.2     KernSmooth_2.23-20 utf8_1.2.2        
+[46] proxy_0.4-26       munsell_0.5.0      crayon_1.5.0      
